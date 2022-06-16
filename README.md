@@ -9,4 +9,4 @@ The dictionary is already trained and saved as the DIC.mat file.
 
 If you want to retraining dictionary, please run the matlab function QTVmy0130 (in line 21 of main_pQSTV);
 
-Chaoyan Huang March 10, 2021
+Chaoyan Huang, March 10, 2021
