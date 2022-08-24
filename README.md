@@ -2,6 +2,7 @@
 This is the code of paper ``Total Variation Based Pure Quaternion Dictionary Learning Method for Color Image Denoising'', 
 
 Tingting Wu, Chaoyan Huang, Zhengmeng Jin, Zhigang Jia, and Michael K. Ng
+http://www.global-sci.org/intro/article_detail/ijnam/20936.html
 
 Please run the main_pQSTV.m file to get the result of Fig. 2 in the paper.
 
